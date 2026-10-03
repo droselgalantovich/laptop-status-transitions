@@ -1,0 +1,18 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "Тестовое задание: функция на TypeScript для изменения статуса ноутбука с проверкой допустимых переходов и записью истории. Условия — в [TZ.md](./TZ.md).",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}
